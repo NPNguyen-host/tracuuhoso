@@ -114,9 +114,15 @@ margin-top:30px;
 
     color:#0056b3;
 
-    font-weight:bold;
+    font-weight:700;
 
-    font-size:30px;
+    font-size:clamp(18px,2vw,34px);
+
+    white-space:nowrap;
+
+    overflow:hidden;
+
+    text-overflow:ellipsis;
 
 }
 
