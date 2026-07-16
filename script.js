@@ -32,7 +32,7 @@ btn.onclick = function () {
 
     if (mahs == "") {
 
-        alert("Vui lòng nhập mã hồ sơ!");
+        alert("Vui lòng nhập mã hồ sơ cần tra cứu!");
 
         input.focus();
 
