@@ -1,4 +1,3 @@
-console.log("Website hoạt động");
 const input = document.getElementById("mahoso");
 
 input.addEventListener("keypress", function(e){
