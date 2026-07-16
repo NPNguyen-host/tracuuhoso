@@ -11,33 +11,26 @@ padding:0;
 }
 
 .overlay{
-
     min-height:100vh;
-
     display:flex;
-
     justify-content:center;
-
     align-items:center;
-
-    padding:40px 15px;
-
+    padding:40px 20px 80px; /* chừa chỗ cho footer */
 }
 
 .search-card{
+    width:100%;
+    max-width:720px;
 
-max-width:600px;
+    padding:45px;
 
-width:100%;
+    border-radius:25px;
 
-padding:40px;
+    background:rgba(255,255,255,.82);
 
-border-radius:20px;
+    backdrop-filter:blur(10px);
 
-box-shadow:0 10px 30px rgba(0,0,0,.2);
-
-text-align:center;
-
+    box-shadow:0 15px 40px rgba(0,0,0,.18);
 }
 
 .logo{
@@ -84,18 +77,19 @@ margin-top:30px;
 ========================= */
 
 .footer{
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    padding: 10px 15px;
-    background: rgba(0, 0, 0, 0.75);
-    color: #ffffff;
-    text-align: center;
-    font-size: 14px;
-    font-style: italic;
-    backdrop-filter: blur(5px);
-    z-index: 999;
+
+    width:100%;
+
+    background:#0d6efd;
+
+    color:#fff;
+
+    text-align:center;
+
+    padding:12px;
+
+    font-size:14px;
+
 }
 
 .footer p{
