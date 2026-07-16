@@ -1,5 +1,10 @@
 const input = document.getElementById("mahoso");
 
+// Tự chuyển thành chữ in hoa
+input.addEventListener("input", function () {
+    this.value = this.value.toUpperCase();
+});
+
 input.addEventListener("keypress", function(e){
 
     if(e.key==="Enter"){
