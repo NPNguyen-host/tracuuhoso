@@ -41,15 +41,10 @@ text-align:center;
 }
 
 .logo{
-
-    width:clamp(80px,10vw,140px);
-
+    width:clamp(140px,18vw,220px);
+    height:auto;
     display:block;
-
-    margin:auto;
-
-    margin-bottom:20px;
-
+    margin:0 auto 20px;
 }
 
 h2{
