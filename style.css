@@ -105,3 +105,95 @@ margin-top:30px;
     font-size:13px;
     opacity:.9;
 }
+
+/* ============================= */
+/* Tiêu đề */
+/* ============================= */
+
+.school-name{
+
+    color:#0056b3;
+
+    font-weight:bold;
+
+    font-size:30px;
+
+}
+
+.system-name{
+
+    color:#555;
+
+    margin-top:10px;
+
+    margin-bottom:25px;
+
+}
+
+/* ============================= */
+/* Ô nhập */
+/* ============================= */
+
+.search-label{
+
+    display:block;
+
+    text-align:left;
+
+    font-weight:bold;
+
+    margin-bottom:8px;
+
+    font-size:17px;
+
+}
+
+.input-group-text{
+
+    font-size:22px;
+
+    background:white;
+
+}
+
+.form-control{
+
+    height:60px;
+
+    font-size:20px;
+
+}
+
+.form-control:focus{
+
+    border-color:#0d6efd;
+
+    box-shadow:0 0 12px rgba(13,110,253,.35);
+
+}
+
+/* ============================= */
+/* Nút */
+/* ============================= */
+
+#btnSearch{
+
+    height:58px;
+
+    font-size:22px;
+
+    font-weight:bold;
+
+    border-radius:10px;
+
+    transition:.3s;
+
+}
+
+#btnSearch:hover{
+
+    transform:translateY(-2px);
+
+    box-shadow:0 10px 25px rgba(0,0,0,.2);
+
+}
