@@ -25,36 +25,45 @@ href="style.css">
 
 <div class="container">
 
-<div class="card search-card">
+<!-- Tiêu đề -->
+<h2 class="school-name">
+    TRƯỜNG THPT NGUYỄN QUANG DIÊU
+</h2>
 
-<img src="logo.png"
-class="logo">
-
-<h3>
-TRƯỜNG THPT NGUYỄN QUANG DIÊU - TỈNH AN GIANG
-</h3>
-
-<h5>
-HỆ THỐNG TRA CỨU KẾT QUẢ TUYỂN SINH VÀO LỚP 10
-NĂM HỌC 2026 - 2027
-</h5>
+<h4 class="system-name">
+    HỆ THỐNG TRA CỨU KẾT QUẢ XÉT TUYỂN
+</h4>
 
 <hr>
 
-<input
-type="text"
-id="mahoso"
-class="form-control form-control-lg"
-placeholder="Nhập mã hồ sơ">
+<label class="search-label">
+    Nhập mã hồ sơ
+</label>
+
+<div class="input-group mt-3">
+
+    <span class="input-group-text">
+        🔍
+    </span>
+
+    <input
+        type="text"
+        id="mahoso"
+        class="form-control form-control-lg"
+        placeholder="Ví dụ: HS202600123"
+        autocomplete="off">
+
+</div>
 
 <button
-class="btn btn-primary btn-lg mt-4 w-100">
+    id="btnSearch"
+    class="btn btn-primary btn-lg w-100 mt-4">
 
-TRA CỨU
+    TRA CỨU
 
 </button>
 
-<div id="ketqua">
+<div id="ketqua"></div>
 
 </div>
 
