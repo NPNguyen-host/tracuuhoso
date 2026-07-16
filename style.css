@@ -34,10 +34,25 @@ padding:0;
 }
 
 .logo{
-    width:clamp(140px,18vw,220px);
-    height:auto;
+
+    width:220px;
+
     display:block;
-    margin:0 auto 20px;
+
+    margin:0 auto 25px;
+
+}
+
+.logo{
+
+    margin-bottom:10px;
+
+}
+
+.school-name{
+
+    margin-bottom:8px;
+
 }
 
 h2{
@@ -111,13 +126,11 @@ margin-top:30px;
 
     font-weight:700;
 
-    font-size:clamp(18px,2vw,34px);
+    font-size:clamp(24px,2.2vw,42px);
 
-    white-space:nowrap;
+    text-align:center;
 
-    overflow:hidden;
-
-    text-overflow:ellipsis;
+    white-space:normal;
 
 }
 
@@ -205,16 +218,10 @@ body{
 
     min-height:100vh;
 
-    background-image:url("assets/background.jpg");
-
-    background-position:center;
-
-    background-repeat:no-repeat;
+    background:url("assets/background.jpg") center center no-repeat;
 
     background-size:cover;
 
     background-attachment:fixed;
-
-    overflow-x:hidden;
 
 }
