@@ -12,15 +12,15 @@ padding:0;
 
 .overlay{
 
-display:flex;
+    min-height:100vh;
 
-justify-content:center;
+    display:flex;
 
-align-items:center;
+    justify-content:center;
 
-height:100vh;
+    align-items:center;
 
-padding:20px;
+    padding:40px 15px;
 
 }
 
