@@ -1,25 +1,36 @@
 const input = document.getElementById("mahoso");
 
+const btn = document.getElementById("btnSearch");
+
+const loading = document.getElementById("loading");
+
+const btnText = document.getElementById("btnText");
+
+
 // Tự chuyển thành chữ in hoa
 input.addEventListener("input", function () {
     this.value = this.value.toUpperCase();
 });
 
-input.addEventListener("keypress", function(e){
 
-    if(e.key==="Enter"){
+// Enter để tra cứu
+input.addEventListener("keypress", function (e) {
 
-        document.getElementById("btnSearch").click();
+    if (e.key === "Enter") {
+
+        btn.click();
 
     }
 
 });
 
-document.getElementById("btnSearch").onclick=function(){
 
-    let mahs=input.value.trim();
+// Tra cứu
+btn.onclick = function () {
 
-    if(mahs===""){
+    let mahs = input.value.trim();
+
+    if (mahs == "") {
 
         alert("Vui lòng nhập mã hồ sơ!");
 
@@ -29,6 +40,24 @@ document.getElementById("btnSearch").onclick=function(){
 
     }
 
-    alert("Bạn vừa nhập: "+mahs);
+    // Hiện spinner
+    loading.style.display = "inline-block";
 
-}
+    btnText.innerHTML = "ĐANG TRA CỨU";
+
+    btn.disabled = true;
+
+    // Giả lập thời gian tra cứu
+    setTimeout(function () {
+
+        loading.style.display = "none";
+
+        btnText.innerHTML = "TRA CỨU";
+
+        btn.disabled = false;
+
+        alert("Đã tìm mã: " + mahs);
+
+    },1000);
+
+};
