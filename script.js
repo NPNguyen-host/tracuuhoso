@@ -53,17 +53,31 @@ btn.onclick = function () {
     let mahs = input.value.trim();
 
     // Kiểm tra dữ liệu nhập
-    if (mahs === "") {
-        alert("Vui lòng nhập số Căn cước công dân của thí sinh cần tra cứu!");
-        input.focus();
-        return;
-    }
+   if (mahs === "") {
+
+    document.getElementById("thongbao").innerHTML = `
+        <div class="alert alert-warning">
+            Vui lòng nhập số Căn cước công dân của thí sinh cần tra cứu.
+        </div>
+    `;
+
+    input.focus();
+    return;
+}
 
     if (!/^\d{12}$/.test(mahs)) {
-        alert("Số Căn cước công dân phải gồm đúng 12 chữ số.");
-        input.focus();
-        return;
-    }
+
+    document.getElementById("thongbao").innerHTML = `
+    <div class="alert alert-danger">
+        Số Căn cước công dân phải gồm đúng 12 chữ số.
+    </div>`;
+
+    input.focus();
+    return;
+}
+
+// Xóa thông báo khi hợp lệ
+document.getElementById("thongbao").innerHTML = "";
 
     // Hiện spinner
     loading.style.display = "inline-block";
