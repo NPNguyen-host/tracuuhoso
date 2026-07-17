@@ -52,36 +52,95 @@ btn.onclick = function () {
 
     let mahs = input.value.trim();
 
+    // Kiểm tra dữ liệu nhập
     if (mahs === "") {
-    alert("Vui lòng nhập số Căn cước công dân của thí sinh cần tra cứu!");
-    input.focus();
-    return;
-}
+        alert("Vui lòng nhập số Căn cước công dân của thí sinh cần tra cứu!");
+        input.focus();
+        return;
+    }
 
-if (!/^\d{12}$/.test(mahs)) {
-    alert("Số Căn cước công dân phải gồm đúng 12 chữ số.");
-    input.focus();
-    return;
-}
+    if (!/^\d{12}$/.test(mahs)) {
+        alert("Số Căn cước công dân phải gồm đúng 12 chữ số.");
+        input.focus();
+        return;
+    }
 
     // Hiện spinner
     loading.style.display = "inline-block";
-
     btnText.innerHTML = "ĐANG TRA CỨU";
-
     btn.disabled = true;
 
-    // Giả lập thời gian tra cứu
-    setTimeout(function () {
+    // Giả lập thời gian xử lý (300ms)
+    setTimeout(() => {
 
+        // Tìm trong file JSON
+        const ketQua = danhSachHoSo.find(item => item.CCCD === mahs);
+
+        // Ẩn spinner
         loading.style.display = "none";
-
         btnText.innerHTML = "TRA CỨU";
-
         btn.disabled = false;
 
-        alert("Đã tìm mã: " + mahs);
+        // Hiển thị kết quả
+        if (ketQua) {
 
-    },1000);
+            document.getElementById("ketqua").innerHTML = `
+                <div class="card shadow mt-4">
+                    <div class="card-body">
+
+                        <h4 class="text-primary text-center mb-3">
+                            KẾT QUẢ TRA CỨU
+                        </h4>
+
+                        <table class="table table-bordered">
+
+                            <tr>
+                                <th>Họ và tên</th>
+                                <td>${ketQua.HOTEN}</td>
+                            </tr>
+
+                            <tr>
+                                <th>Ngày sinh</th>
+                                <td>${ketQua.NGAYSINH}</td>
+                            </tr>
+
+                            <tr>
+                                <th>Giới tính</th>
+                                <td>${ketQua.GIOITINH}</td>
+                            </tr>
+
+                            <tr>
+                                <th>Trường THCS</th>
+                                <td>${ketQua.TRUONGTHCS}</td>
+                            </tr>
+
+                            <tr>
+                                <th>Điểm xét tuyển</th>
+                                <td>${ketQua.DIEMXETTUYEN}</td>
+                            </tr>
+
+                            <tr>
+                                <th>Kết quả</th>
+                                <td><strong>${ketQua.KETQUA}</strong></td>
+                            </tr>
+
+                        </table>
+
+                    </div>
+                </div>
+            `;
+
+        } else {
+
+            document.getElementById("ketqua").innerHTML = `
+                <div class="alert alert-danger mt-4 text-center">
+                    <strong>Không tìm thấy thông tin!</strong><br>
+                    Vui lòng kiểm tra lại số Căn cước công dân.
+                </div>
+            `;
+
+        }
+
+    }, 300);
 
 };
