@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Chuyển Excel sang JSON</title>
+
+<script src="https://cdn.jsdelivr.net/npm/xlsx/dist/xlsx.full.min.js"></script>
+
+</head>
+
+<body>
+
+<h2>Chọn file Excel</h2>
+
+<input type="file" id="excel">
+
+<br><br>
+
+<button onclick="convert()">
+
+Chuyển sang JSON
+
+</button>
+
+<script>
+
+function convert(){
+
+const file=document.getElementById("excel").files[0];
+
+const reader=new FileReader();
+
+reader.onload=function(e){
+
+const data=new Uint8Array(e.target.result);
+
+const workbook=XLSX.read(data,{type:'array'});
+
+const sheet=workbook.Sheets[workbook.SheetNames[0]];
+
+const json=XLSX.utils.sheet_to_json(sheet);
+
+const blob=new Blob(
+
+[JSON.stringify(json,null,2)],
+
+{type:"application/json"}
+
+);
+
+const a=document.createElement("a");
+
+a.href=URL.createObjectURL(blob);
+
+a.download="data.json";
+
+a.click();
+
+}
+
+reader.readAsArrayBuffer(file);
+
+}
+
+</script>
+
+</body>
+
+</html>
