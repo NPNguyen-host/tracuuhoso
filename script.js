@@ -1,3 +1,17 @@
+// Dữ liệu hồ sơ
+let danhSachHoSo = [];
+
+// Đọc file JSON
+fetch("data/data.json")
+    .then(response => response.json())
+    .then(data => {
+        danhSachHoSo = data;
+        console.log("Đã tải", danhSachHoSo.length, "hồ sơ.");
+    })
+    .catch(error => {
+        console.error("Không đọc được data.json:", error);
+    });
+
 const input = document.getElementById("mahoso");
 
 const btn = document.getElementById("btnSearch");
