@@ -154,3 +154,10 @@ body{
 .main-container{
     padding-bottom:70px;
 }
+
+#thongbao{
+    width:90%;
+    max-width:900px;
+    margin-top:12px;
+    min-height:48px;
+}
