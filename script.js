@@ -135,10 +135,15 @@ document.getElementById("thongbao").innerHTML = "";
                                 <td>${ketQua.DIEMXETTUYEN}</td>
                             </tr>
 
-                            <tr>
-                                <th>Kết quả</th>
-                                <td><strong>${ketQua.KETQUA}</strong></td>
-                            </tr>
+                            <td>
+    ${
+        ketQua.KETQUA === "Trúng tuyển"
+
+        ? '<span class="badge bg-success fs-6">TRÚNG TUYỂN</span>'
+
+        : '<span class="badge bg-danger fs-6">KHÔNG TRÚNG TUYỂN</span>'
+    }
+</td>
 
                         </table>
 
