@@ -21,76 +21,49 @@ href="style.css">
 
 <body>
 
-<div class="overlay">
+<div class="main-container">
 
-<div class="container">
+    <img src="assets/logo.png" class="logo">
 
-<div class="search-card">
-<img src="logo.png"
-     alt="Logo THPT Nguyễn Quang Diêu"
-     class="logo">
-    
-<!-- Tiêu đề -->
-<h2 class="school-name">
-    TRƯỜNG THPT NGUYỄN QUANG DIÊU
-</h2>
+    <h2 class="school-name">
+        TRƯỜNG THPT NGUYỄN QUANG DIÊU
+    </h2>
 
-<h4 class="system-name">
-    HỆ THỐNG TRA CỨU KẾT QUẢ XÉT TUYỂN VÀO LỚP 10 NĂM HỌC 2026 - 2027
-</h4>
-
-<hr>
-
-<label class="search-label">
-    Vui lòng nhập mã hồ sơ của thí sinh cần tra cứu:
-</label>
-
-<div class="input-group mt-3">
-
-    <span class="input-group-text">
-        🔍
-    </span>
+    <h3 class="system-name">
+        HỆ THỐNG TRA CỨU KẾT QUẢ XÉT TUYỂN<br>
+        VÀO LỚP 10 NĂM HỌC 2026 - 2027
+    </h3>
 
     <input
         type="text"
         id="mahoso"
         class="form-control form-control-lg"
-        placeholder="Ví dụ: HS202600123"
-        autocomplete="off">
+        placeholder="Nhập mã hồ sơ cần tra cứu">
+
+    <button
+        id="btnSearch"
+        class="btn btn-primary mt-4">
+
+        <span id="btnText">TRA CỨU</span>
+
+        <span
+            id="loading"
+            class="spinner-border spinner-border-sm ms-2"
+            style="display:none">
+        </span>
+
+    </button>
+
+    <div id="ketqua"></div>
 
 </div>
 
-<button
-    id="btnSearch"
-    class="btn btn-primary btn-lg w-100 mt-4">
-
-    <span id="btnText">
-        TRA CỨU
-    </span>
-
-    <span
-        id="loading"
-        class="spinner-border spinner-border-sm ms-2"
-        style="display:none;">
-    </span>
-
-</button>
-
-<div id="ketqua"></div>
-
-</div>
-
-</div>
-
-</div>
-
-</div>
+<footer class="footer">
+    @2026 Phát triển bởi Nguyễn Phúc Nguyên - Phó Bí thư Đoàn trường
+</footer>
 
 <script src="script.js"></script>
 
-<footer class="footer">
-    Phát triển bởi Nguyễn Phúc Nguyên - Phó Bí thư Đoàn trường
-</footer>
 </body>
 
 </html>
