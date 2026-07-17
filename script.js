@@ -150,6 +150,7 @@ document.getElementById("thongbao").innerHTML = "";
         } else {
 
     // Xóa kết quả cũ
+    document.getElementById("thongbao").innerHTML = "";
     document.getElementById("ketqua").innerHTML = "";
 
     // Hiển thị thông báo ngay dưới ô nhập
