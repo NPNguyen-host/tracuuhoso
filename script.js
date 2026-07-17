@@ -135,15 +135,11 @@ document.getElementById("thongbao").innerHTML = "";
                                 <td>${ketQua.DIEMXETTUYEN}</td>
                             </tr>
 
-                            <td>
-    ${
-        ketQua.KETQUA === "Trúng tuyển"
-
-        ? '<span class="badge bg-success fs-6">TRÚNG TUYỂN</span>'
-
-        : '<span class="badge bg-danger fs-6">KHÔNG TRÚNG TUYỂN</span>'
-    }
-</td>
+                                <td>${ketQua.KETQUA === "Trúng tuyển"
+                                ? '<span class="badge bg-success fs-6">TRÚNG TUYỂN</span>'
+                                : '<span class="badge bg-danger fs-6">KHÔNG TRÚNG TUYỂN</span>'
+                                }
+                            </td>
 
                         </table>
 
@@ -153,14 +149,18 @@ document.getElementById("thongbao").innerHTML = "";
 
         } else {
 
-            document.getElementById("ketqua").innerHTML = `
-                <div class="alert alert-danger mt-4 text-center">
-                    <strong>Không tìm thấy thông tin!</strong><br>
-                    Vui lòng kiểm tra lại số Căn cước công dân.
-                </div>
-            `;
+    // Xóa kết quả cũ
+    document.getElementById("ketqua").innerHTML = "";
 
-        }
+    // Hiển thị thông báo ngay dưới ô nhập
+    document.getElementById("thongbao").innerHTML = `
+        <div class="alert alert-danger text-center">
+            <strong>Không tìm thấy thông tin!</strong><br>
+            Vui lòng kiểm tra lại số Căn cước công dân.
+        </div>
+    `;
+
+}
 
     }, 300);
 
