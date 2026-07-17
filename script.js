@@ -7,9 +7,17 @@ const loading = document.getElementById("loading");
 const btnText = document.getElementById("btnText");
 
 
-// Tự chuyển thành chữ in hoa
+// Chỉ cho phép nhập số và tối đa 12 chữ số
 input.addEventListener("input", function () {
-    this.value = this.value.toUpperCase();
+
+    // Loại bỏ tất cả ký tự không phải số
+    this.value = this.value.replace(/\D/g, "");
+
+    // Giới hạn tối đa 12 chữ số
+    if (this.value.length > 12) {
+        this.value = this.value.slice(0, 12);
+    }
+
 });
 
 
@@ -30,15 +38,17 @@ btn.onclick = function () {
 
     let mahs = input.value.trim();
 
-    if (mahs == "") {
+    if (mahs === "") {
+    alert("Vui lòng nhập số Căn cước công dân của thí sinh cần tra cứu!");
+    input.focus();
+    return;
+}
 
-        alert("Vui lòng nhập mã hồ sơ cần tra cứu!");
-
-        input.focus();
-
-        return;
-
-    }
+if (!/^\d{12}$/.test(mahs)) {
+    alert("Số Căn cước công dân phải gồm đúng 12 chữ số.");
+    input.focus();
+    return;
+}
 
     // Hiện spinner
     loading.style.display = "inline-block";
