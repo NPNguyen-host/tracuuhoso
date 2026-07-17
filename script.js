@@ -56,6 +56,7 @@ btn.onclick = function () {
    if (mahs === "") {
 
     document.getElementById("thongbao").innerHTML = `
+    document.getElementById("ketqua").innerHTML = "";
         <div class="alert alert-warning">
             Vui lòng nhập số Căn cước công dân của thí sinh cần tra cứu.
         </div>
@@ -64,10 +65,11 @@ btn.onclick = function () {
     input.focus();
     return;
 }
-
+    
     if (!/^\d{12}$/.test(mahs)) {
 
     document.getElementById("thongbao").innerHTML = `
+    document.getElementById("ketqua").innerHTML = "";
     <div class="alert alert-danger">
         Số Căn cước công dân phải gồm đúng 12 chữ số.
     </div>`;
