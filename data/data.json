@@ -1,0 +1,3575 @@
+[
+  {
+    "CCCD": "089311016652",
+    "HOTEN": "Bùi Hồng Xuân Anh",
+    "NGAYSINH": "25/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016857",
+    "HOTEN": "Bùi Mỹ Hoàng Kim",
+    "NGAYSINH": "15/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311012903",
+    "HOTEN": "Bùi Thị Kim Anh",
+    "NGAYSINH": "28/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011409",
+    "HOTEN": "Bùi Thị Trúc Đào",
+    "NGAYSINH": "03/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211008281",
+    "HOTEN": "Cao Bình Quân",
+    "NGAYSINH": "05/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089310014348",
+    "HOTEN": "Cao Hoàng Lan",
+    "NGAYSINH": "20/07/2010",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "091211014497",
+    "HOTEN": "Đặng Gia Bảo",
+    "NGAYSINH": "20/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211019992",
+    "HOTEN": "Đặng Minh Phát",
+    "NGAYSINH": "30/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211010382",
+    "HOTEN": "Đặng Nguyễn Bảo Vinh",
+    "NGAYSINH": "11/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211008338",
+    "HOTEN": "Đặng Phúc Thịnh",
+    "NGAYSINH": "25/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211016144",
+    "HOTEN": "Đặng Quốc Anh",
+    "NGAYSINH": "18/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211006923",
+    "HOTEN": "Đặng Tầm Khoa",
+    "NGAYSINH": "03/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311003953",
+    "HOTEN": "Đặng Thị Bích Trâm",
+    "NGAYSINH": "08/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211003531",
+    "HOTEN": "Đặng Văn Khánh",
+    "NGAYSINH": "16/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311006385",
+    "HOTEN": "Đào Thị Kim Yến",
+    "NGAYSINH": "04/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311019030",
+    "HOTEN": "Đào Thị Ngọc Châu",
+    "NGAYSINH": "04/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211009385",
+    "HOTEN": "Đinh Công Chí Thành",
+    "NGAYSINH": "14/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311012379",
+    "HOTEN": "Đinh Thị Kim Thắm",
+    "NGAYSINH": "04/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311006065",
+    "HOTEN": "Đinh Thị Như Ý",
+    "NGAYSINH": "22/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311006127",
+    "HOTEN": "Đỗ Ánh Quyên",
+    "NGAYSINH": "14/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311004691",
+    "HOTEN": "Đỗ Ánh Trúc",
+    "NGAYSINH": "20/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211004340",
+    "HOTEN": "Đỗ Đăng Khoa",
+    "NGAYSINH": "06/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211007508",
+    "HOTEN": "Đỗ Duy Khang",
+    "NGAYSINH": "28/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000732",
+    "HOTEN": "Đỗ Ngọc Vy",
+    "NGAYSINH": "29/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211009802",
+    "HOTEN": "Đỗ Trọng Khang",
+    "NGAYSINH": "25/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211023486",
+    "HOTEN": "Đổ Trung Hiếu",
+    "NGAYSINH": "03/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311020134",
+    "HOTEN": "Đoàn Đăng Khoa",
+    "NGAYSINH": "03/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211018497",
+    "HOTEN": "Đoàn Dự",
+    "NGAYSINH": "17/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211020426",
+    "HOTEN": "Đoàn Lâm Chí Bảo",
+    "NGAYSINH": "26/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311015001",
+    "HOTEN": "Đoàn Lương Thanh Trúc",
+    "NGAYSINH": "25/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211012582",
+    "HOTEN": "Đoàn Nhật Thái",
+    "NGAYSINH": "20/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211011469",
+    "HOTEN": "Đoàn Thanh Phú",
+    "NGAYSINH": "10/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000829",
+    "HOTEN": "Đoàn Trần Thanh Thanh",
+    "NGAYSINH": "15/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211002653",
+    "HOTEN": "Đoàn Văn Khánh Huy",
+    "NGAYSINH": "19/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311017654",
+    "HOTEN": "Đồng Thị Kim Yến",
+    "NGAYSINH": "28/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016519",
+    "HOTEN": "Dương Hồ Trà My",
+    "NGAYSINH": "02/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089310000024",
+    "HOTEN": "Dương Phan Bảo Ngân",
+    "NGAYSINH": "20/06/2010",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211016077",
+    "HOTEN": "Dương Phi Dư",
+    "NGAYSINH": "22/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311015381",
+    "HOTEN": "Dương Thị Bích Trâm",
+    "NGAYSINH": "26/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311019139",
+    "HOTEN": "Dương Thị Phước Xuyên",
+    "NGAYSINH": "14/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014142",
+    "HOTEN": "Hà Bảo Vinh",
+    "NGAYSINH": "14/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211017652",
+    "HOTEN": "Hà Gia Hạo",
+    "NGAYSINH": "03/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311006414",
+    "HOTEN": "Hà Huỳnh Triệu Vy",
+    "NGAYSINH": "25/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311013091",
+    "HOTEN": "Hà Ngư Ý",
+    "NGAYSINH": "31/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311010273",
+    "HOTEN": "Hà Thị Diễm My",
+    "NGAYSINH": "08/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311005561",
+    "HOTEN": "Hà Thị Hồng Thắm",
+    "NGAYSINH": "06/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311005609",
+    "HOTEN": "Hà Thị Huyền Nhân",
+    "NGAYSINH": "04/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311009045",
+    "HOTEN": "Hà Thị Quỳnh Mai",
+    "NGAYSINH": "07/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001110",
+    "HOTEN": "Hà Võ Đăng Vũ",
+    "NGAYSINH": "23/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "094211012611",
+    "HOTEN": "Hồ Lê Bảo Khang",
+    "NGAYSINH": "21/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016882",
+    "HOTEN": "Hồ Thị Mỹ Tuyền",
+    "NGAYSINH": "21/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007291",
+    "HOTEN": "Hồ Thị Phương Nghi",
+    "NGAYSINH": "14/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016526",
+    "HOTEN": "Hồ Thị Thùy Dương",
+    "NGAYSINH": "12/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211007866",
+    "HOTEN": "Hồ Tuấn Tú",
+    "NGAYSINH": "22/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211018057",
+    "HOTEN": "Hoa Nhựt Bin",
+    "NGAYSINH": "29/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007031",
+    "HOTEN": "Hứa Thị Tường Vy",
+    "NGAYSINH": "24/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211015600",
+    "HOTEN": "Huỳnh Chí Bảo",
+    "NGAYSINH": "28/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014730",
+    "HOTEN": "Huỳnh Đăng Khôi",
+    "NGAYSINH": "19/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211007218",
+    "HOTEN": "Huỳnh Lâm",
+    "NGAYSINH": "13/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000977",
+    "HOTEN": "Huỳnh Ngọc Phương",
+    "NGAYSINH": "29/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311012333",
+    "HOTEN": "Huỳnh Quế Trân",
+    "NGAYSINH": "12/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211011413",
+    "HOTEN": "Huỳnh Thái Bảo",
+    "NGAYSINH": "04/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007822",
+    "HOTEN": "Huỳnh Thị Anh Thư",
+    "NGAYSINH": "07/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311010583",
+    "HOTEN": "Huỳnh Thị Hồng Mai",
+    "NGAYSINH": "15/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000823",
+    "HOTEN": "Huỳnh Thị Huế Trân",
+    "NGAYSINH": "12/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311018112",
+    "HOTEN": "Huỳnh Thị Lan Anh",
+    "NGAYSINH": "19/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004179",
+    "HOTEN": "Huỳnh Thị Mỹ Vy",
+    "NGAYSINH": "26/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000647",
+    "HOTEN": "Huỳnh Thị Ngọc Vàng",
+    "NGAYSINH": "27/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Phú Lộc",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311013377",
+    "HOTEN": "Huỳnh Thị Nhã Hân",
+    "NGAYSINH": "14/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311006709",
+    "HOTEN": "Huỳnh Thị Như Ý",
+    "NGAYSINH": "15/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311015877",
+    "HOTEN": "Huỳnh Thị Thảo Uyên",
+    "NGAYSINH": "11/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "079311045515",
+    "HOTEN": "Huỳnh Thị Thùy Dương",
+    "NGAYSINH": "21/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211020499",
+    "HOTEN": "Huỳnh Trần Đăng Khoa",
+    "NGAYSINH": "21/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211002983",
+    "HOTEN": "Khúc Lê Đăng Khoa",
+    "NGAYSINH": "15/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211018770",
+    "HOTEN": "Lâm Hoà Dương",
+    "NGAYSINH": "15/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long Phú",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311001146",
+    "HOTEN": "Lâm Thị Bích Vy",
+    "NGAYSINH": "17/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211006220",
+    "HOTEN": "Lê Bảo Giàu",
+    "NGAYSINH": "12/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211001244",
+    "HOTEN": "Lê Công Tuấn Anh",
+    "NGAYSINH": "01/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211003473",
+    "HOTEN": "Lê Đăng Khoa",
+    "NGAYSINH": "27/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001349",
+    "HOTEN": "Lê Đạt Thành",
+    "NGAYSINH": "22/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001006",
+    "HOTEN": "Lê Hoàng Giang",
+    "NGAYSINH": "07/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311014242",
+    "HOTEN": "Lê Khánh Băng",
+    "NGAYSINH": "10/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 41,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011135",
+    "HOTEN": "Lê Kim Ngọc",
+    "NGAYSINH": "30/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Chu Văn An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007436",
+    "HOTEN": "Lê Lan Anh",
+    "NGAYSINH": "25/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211010779",
+    "HOTEN": "Lê Nguyễn Anh Khoa",
+    "NGAYSINH": "27/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000721",
+    "HOTEN": "Lê Nguyễn Anh Thư",
+    "NGAYSINH": "01/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "083311000527",
+    "HOTEN": "Lê Nguyễn Bảo Ngân",
+    "NGAYSINH": "08/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007308",
+    "HOTEN": "Lê Nguyễn Diễm Hằng",
+    "NGAYSINH": "27/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311013586",
+    "HOTEN": "Lê Nguyễn Trúc Linh",
+    "NGAYSINH": "17/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "086211005804",
+    "HOTEN": "Lê Nhất Huy",
+    "NGAYSINH": "06/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211015272",
+    "HOTEN": "Lê Phước Hậu",
+    "NGAYSINH": "29/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000850",
+    "HOTEN": "Lê Quốc Đô",
+    "NGAYSINH": "25/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211019577",
+    "HOTEN": "Lê Quốc Thái",
+    "NGAYSINH": "07/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211013172",
+    "HOTEN": "Lê Thành Lộc",
+    "NGAYSINH": "08/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311012303",
+    "HOTEN": "Lê Thị Ái Mẫn",
+    "NGAYSINH": "12/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311001436",
+    "HOTEN": "Lê Thị Cẩm Tiên",
+    "NGAYSINH": "30/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311018238",
+    "HOTEN": "Lê Thị Huỳnh Hương",
+    "NGAYSINH": "11/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000867",
+    "HOTEN": "Lê Thị Mai Thảo",
+    "NGAYSINH": "03/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311021460",
+    "HOTEN": "Lê Thị Ngọc Anh",
+    "NGAYSINH": "11/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311006287",
+    "HOTEN": "Lê Thị Nhã Kỳ",
+    "NGAYSINH": "04/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311005654",
+    "HOTEN": "Lê Thị Thùy Dung",
+    "NGAYSINH": "28/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311020287",
+    "HOTEN": "Lê Thị Trà My",
+    "NGAYSINH": "13/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311018954",
+    "HOTEN": "Lê Thị Tường Vy",
+    "NGAYSINH": "09/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007810",
+    "HOTEN": "Lê Thị Tuyết Như",
+    "NGAYSINH": "24/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211000736",
+    "HOTEN": "Lê Thiên Phúc",
+    "NGAYSINH": "18/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211003712",
+    "HOTEN": "Lê Trần Trường Thịnh",
+    "NGAYSINH": "24/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211011341",
+    "HOTEN": "Lê Trọng Nghĩa",
+    "NGAYSINH": "06/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000869",
+    "HOTEN": "Lê Trọng Vỹ",
+    "NGAYSINH": "03/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000659",
+    "HOTEN": "Lê Trung Hiếu",
+    "NGAYSINH": "10/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211020574",
+    "HOTEN": "Lê Văn An",
+    "NGAYSINH": "12/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311018704",
+    "HOTEN": "Lê Xuân Nghi",
+    "NGAYSINH": "12/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211006546",
+    "HOTEN": "Lộ Văn Trọng",
+    "NGAYSINH": "12/01/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211002387",
+    "HOTEN": "Lương Bảo Duy",
+    "NGAYSINH": "15/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211020483",
+    "HOTEN": "Lương Bảo Khánh",
+    "NGAYSINH": "14/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311003046",
+    "HOTEN": "Lương Thị Diễm Huỳnh",
+    "NGAYSINH": "24/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311009322",
+    "HOTEN": "Lương Thị Hồng Gấm",
+    "NGAYSINH": "27/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311005515",
+    "HOTEN": "Lương Thị Khánh Băng",
+    "NGAYSINH": "24/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311020823",
+    "HOTEN": "Lương Thị Ngọc Thơ",
+    "NGAYSINH": "14/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089207023574",
+    "HOTEN": "Lương Tuấn Vũ",
+    "NGAYSINH": "16/07/2007",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311017082",
+    "HOTEN": "Lưu Thị Kim Ngọc",
+    "NGAYSINH": "16/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000933",
+    "HOTEN": "Lý Đăng Khoa",
+    "NGAYSINH": "22/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016336",
+    "HOTEN": "Lý Kim Sinl Hinl",
+    "NGAYSINH": "09/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211012099",
+    "HOTEN": "Mai An Nam",
+    "NGAYSINH": "09/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000917",
+    "HOTEN": "Mai Thị Mỹ Duyên",
+    "NGAYSINH": "23/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211012119",
+    "HOTEN": "Ngô Chấn Huy",
+    "NGAYSINH": "31/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211012683",
+    "HOTEN": "Ngô Minh Luân",
+    "NGAYSINH": "01/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011064",
+    "HOTEN": "Ngô Thị Diễm Trang",
+    "NGAYSINH": "09/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211006963",
+    "HOTEN": "Ngô Trung Kiên",
+    "NGAYSINH": "22/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211013094",
+    "HOTEN": "Nguyễn Anh Tú",
+    "NGAYSINH": "05/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211012666",
+    "HOTEN": "Nguyễn Anh Tuấn",
+    "NGAYSINH": "03/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211000768",
+    "HOTEN": "Nguyễn Bảo Khang",
+    "NGAYSINH": "23/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211005545",
+    "HOTEN": "Nguyễn Chấn Hào",
+    "NGAYSINH": "04/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211010737",
+    "HOTEN": "Nguyễn Chí Nguyên",
+    "NGAYSINH": "06/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089210010955",
+    "HOTEN": "Nguyễn Chí Vỹ",
+    "NGAYSINH": "23/08/2010",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211020009",
+    "HOTEN": "Nguyễn Công Minh",
+    "NGAYSINH": "19/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211009204",
+    "HOTEN": "Nguyễn Công Trầm",
+    "NGAYSINH": "01/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211015923",
+    "HOTEN": "Nguyễn Đăng Khoa",
+    "NGAYSINH": "28/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211015875",
+    "HOTEN": "Nguyễn Đức Khang",
+    "NGAYSINH": "12/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211008174",
+    "HOTEN": "Nguyễn Đức Trọng",
+    "NGAYSINH": "03/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211004575",
+    "HOTEN": "Nguyễn Duy Hào",
+    "NGAYSINH": "28/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000073",
+    "HOTEN": "Nguyễn Duy Khánh",
+    "NGAYSINH": "01/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211002385",
+    "HOTEN": "Nguyễn Gia Khánh",
+    "NGAYSINH": "25/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211013499",
+    "HOTEN": "Nguyễn Hiếu Kỳ",
+    "NGAYSINH": "08/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 32,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311020313",
+    "HOTEN": "Nguyễn Hồ Anh Thư",
+    "NGAYSINH": "24/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211019739",
+    "HOTEN": "Nguyễn Hồ Hoài Phúc",
+    "NGAYSINH": "18/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311014765",
+    "HOTEN": "Nguyễn Hồ Kim Thoa",
+    "NGAYSINH": "24/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001238",
+    "HOTEN": "Nguyễn Hồ Phát",
+    "NGAYSINH": "06/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 32,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211022975",
+    "HOTEN": "Nguyễn Hoài Thanh",
+    "NGAYSINH": "19/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014895",
+    "HOTEN": "Nguyễn Hoàng Khả",
+    "NGAYSINH": "12/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021255",
+    "HOTEN": "Nguyễn Hoàng Phúc",
+    "NGAYSINH": "20/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211023149",
+    "HOTEN": "Nguyễn Hồng Bằng",
+    "NGAYSINH": "08/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211023004",
+    "HOTEN": "Nguyễn Hồng Nguyên",
+    "NGAYSINH": "17/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211015698",
+    "HOTEN": "Nguyễn Hồng Tuấn",
+    "NGAYSINH": "11/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211016507",
+    "HOTEN": "Nguyễn Hữu Đức",
+    "NGAYSINH": "04/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211008102",
+    "HOTEN": "Nguyễn Hữu Nhu",
+    "NGAYSINH": "04/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211004859",
+    "HOTEN": "Nguyễn Hữu Trí",
+    "NGAYSINH": "08/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021238",
+    "HOTEN": "Nguyễn Huỳnh Khánh Duy",
+    "NGAYSINH": "16/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311001503",
+    "HOTEN": "Nguyễn Huỳnh Quyên",
+    "NGAYSINH": "07/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014361",
+    "HOTEN": "Nguyễn Huỳnh Triết",
+    "NGAYSINH": "24/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089210011154",
+    "HOTEN": "Nguyễn Lâm Điền",
+    "NGAYSINH": "07/09/2010",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 32,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211004873",
+    "HOTEN": "Nguyễn Lê Quốc Đại",
+    "NGAYSINH": "01/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211006042",
+    "HOTEN": "Nguyễn Lộc Thọ",
+    "NGAYSINH": "28/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211012060",
+    "HOTEN": "Nguyễn Mạnh Tiến",
+    "NGAYSINH": "02/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211018916",
+    "HOTEN": "Nguyễn Minh Khang",
+    "NGAYSINH": "27/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211019923",
+    "HOTEN": "Nguyễn Minh Nhật",
+    "NGAYSINH": "11/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211003051",
+    "HOTEN": "Nguyễn Minh Nhựt",
+    "NGAYSINH": "21/01/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211002396",
+    "HOTEN": "Nguyễn Minh Phát",
+    "NGAYSINH": "21/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211010413",
+    "HOTEN": "Nguyễn Minh Phát",
+    "NGAYSINH": "11/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021386",
+    "HOTEN": "Nguyễn Minh Quân",
+    "NGAYSINH": "24/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211022161",
+    "HOTEN": "Nguyễn Minh Toàn",
+    "NGAYSINH": "20/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000961",
+    "HOTEN": "Nguyễn Ngọc Anh Thư",
+    "NGAYSINH": "29/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007846",
+    "HOTEN": "Nguyễn Ngọc Bảo Khánh",
+    "NGAYSINH": "17/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000720",
+    "HOTEN": "Nguyễn Ngọc Gia Hân",
+    "NGAYSINH": "06/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000942",
+    "HOTEN": "Nguyễn Ngọc Hân",
+    "NGAYSINH": "03/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011661",
+    "HOTEN": "Nguyễn Ngọc Huỳnh Giao",
+    "NGAYSINH": "24/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "080311006000",
+    "HOTEN": "Nguyễn Ngọc Như Ý",
+    "NGAYSINH": "08/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311009903",
+    "HOTEN": "Nguyễn Ngọc Xuân Quý",
+    "NGAYSINH": "19/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014502",
+    "HOTEN": "Nguyễn Nhật Duy",
+    "NGAYSINH": "09/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211010506",
+    "HOTEN": "Nguyễn Nhựt Minh Khương",
+    "NGAYSINH": "28/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311006684",
+    "HOTEN": "Nguyễn Phạm Bích Trâm",
+    "NGAYSINH": "01/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211019068",
+    "HOTEN": "Nguyễn Phạm Thanh Tú",
+    "NGAYSINH": "04/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211013566",
+    "HOTEN": "Nguyễn Phan Bảo Quý",
+    "NGAYSINH": "07/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311001645",
+    "HOTEN": "Nguyễn Phan Huyền Trân",
+    "NGAYSINH": "15/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211008605",
+    "HOTEN": "Nguyễn Phú Hào",
+    "NGAYSINH": "23/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211003087",
+    "HOTEN": "Nguyễn Phúc Bảo Yên",
+    "NGAYSINH": "02/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211007787",
+    "HOTEN": "Nguyễn Phước Hào",
+    "NGAYSINH": "27/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000856",
+    "HOTEN": "Nguyễn Phương Nam",
+    "NGAYSINH": "16/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311020596",
+    "HOTEN": "Nguyễn Phương Thùy",
+    "NGAYSINH": "28/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 32,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014455",
+    "HOTEN": "Nguyễn Quân Bảo",
+    "NGAYSINH": "09/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211003744",
+    "HOTEN": "Nguyễn Quang Vinh",
+    "NGAYSINH": "25/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211014514",
+    "HOTEN": "Nguyễn Quốc Đại",
+    "NGAYSINH": "16/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311012260",
+    "HOTEN": "Nguyễn Quỳnh Hương",
+    "NGAYSINH": "04/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211008299",
+    "HOTEN": "Nguyễn Tấn Phát",
+    "NGAYSINH": "10/01/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000748",
+    "HOTEN": "Nguyễn Tấn Vạn",
+    "NGAYSINH": "21/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 32,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211018160",
+    "HOTEN": "Nguyễn Thanh Hải",
+    "NGAYSINH": "24/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211010316",
+    "HOTEN": "Nguyễn Thanh Hải",
+    "NGAYSINH": "10/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089210019374",
+    "HOTEN": "Nguyễn Thanh Nhã",
+    "NGAYSINH": "12/06/2010",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211017038",
+    "HOTEN": "Nguyễn Thành Nhân",
+    "NGAYSINH": "03/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089210000740",
+    "HOTEN": "Nguyễn Thanh Phong",
+    "NGAYSINH": "04/12/2010",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000891",
+    "HOTEN": "Nguyễn Thanh Thảo",
+    "NGAYSINH": "22/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089209005105",
+    "HOTEN": "Nguyễn Thanh Thuận",
+    "NGAYSINH": "25/06/2009",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long Thạnh",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014056",
+    "HOTEN": "Nguyễn Thành Trung",
+    "NGAYSINH": "11/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011364",
+    "HOTEN": "Nguyễn Thị Ái My",
+    "NGAYSINH": "22/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311009057",
+    "HOTEN": "Nguyễn Thị Anh Thư",
+    "NGAYSINH": "23/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311013593",
+    "HOTEN": "Nguyễn Thị Bảo Trâm",
+    "NGAYSINH": "20/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311017549",
+    "HOTEN": "Nguyễn Thị Bảo Yến",
+    "NGAYSINH": "09/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089310016279",
+    "HOTEN": "Nguyễn Thị Bích Nhi",
+    "NGAYSINH": "11/09/2010",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011765",
+    "HOTEN": "Nguyễn Thị Bích Trân",
+    "NGAYSINH": "22/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004684",
+    "HOTEN": "Nguyễn Thị Bích Tuyền",
+    "NGAYSINH": "17/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311003208",
+    "HOTEN": "Nguyễn Thị Cẩm Nhung",
+    "NGAYSINH": "14/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311019272",
+    "HOTEN": "Nguyễn Thị Cẩm Tiên",
+    "NGAYSINH": "21/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311016858",
+    "HOTEN": "Nguyễn Thị Cẩm Tiên",
+    "NGAYSINH": "07/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311019314",
+    "HOTEN": "Nguyễn Thị Hồng Cẩm",
+    "NGAYSINH": "06/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311021523",
+    "HOTEN": "Nguyễn Thị Huỳnh Như",
+    "NGAYSINH": "19/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016533",
+    "HOTEN": "Nguyễn Thị Khánh Băng",
+    "NGAYSINH": "27/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311018849",
+    "HOTEN": "Nguyễn Thị Khánh Băng",
+    "NGAYSINH": "10/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311013672",
+    "HOTEN": "Nguyễn Thị Khánh Ngọc",
+    "NGAYSINH": "05/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089310010457",
+    "HOTEN": "Nguyễn Thị Kim Cương",
+    "NGAYSINH": "27/06/2010",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "079311043263",
+    "HOTEN": "Nguyễn Thị Kim Hằng",
+    "NGAYSINH": "25/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311010617",
+    "HOTEN": "Nguyễn Thị Kim Lên",
+    "NGAYSINH": "21/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 32,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311005289",
+    "HOTEN": "Nguyễn Thị Kim Ngân",
+    "NGAYSINH": "10/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004701",
+    "HOTEN": "Nguyễn Thị Kim Trân",
+    "NGAYSINH": "03/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311021236",
+    "HOTEN": "Nguyễn Thị Kim Xoàn",
+    "NGAYSINH": "09/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016706",
+    "HOTEN": "Nguyễn Thị Lan Dy",
+    "NGAYSINH": "16/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016399",
+    "HOTEN": "Nguyễn Thị Lin Da",
+    "NGAYSINH": "10/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311018190",
+    "HOTEN": "Nguyễn Thị Minh Thư",
+    "NGAYSINH": "14/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311021400",
+    "HOTEN": "Nguyễn Thị Mỹ Kim",
+    "NGAYSINH": "19/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004888",
+    "HOTEN": "Nguyễn Thị Ngọc Hà",
+    "NGAYSINH": "09/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311001691",
+    "HOTEN": "Nguyễn Thị Ngọc Hà",
+    "NGAYSINH": "25/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311000836",
+    "HOTEN": "Nguyễn Thị Ngọc Hân",
+    "NGAYSINH": "01/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311008780",
+    "HOTEN": "Nguyễn Thị Ngọc Tiên",
+    "NGAYSINH": "21/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089310012650",
+    "HOTEN": "Nguyễn Thị Ngọc Vy",
+    "NGAYSINH": "26/12/2010",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311017486",
+    "HOTEN": "Nguyễn Thị Phương Anh",
+    "NGAYSINH": "30/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311021209",
+    "HOTEN": "Nguyễn Thị Phương Tường",
+    "NGAYSINH": "20/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011897",
+    "HOTEN": "Nguyễn Thị Quỳnh Như",
+    "NGAYSINH": "09/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311001967",
+    "HOTEN": "Nguyễn Thị Thảo",
+    "NGAYSINH": "24/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089309009858",
+    "HOTEN": "Nguyễn Thị Thảo",
+    "NGAYSINH": "15/11/2009",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311003467",
+    "HOTEN": "Nguyễn Thị Thảo Nguyên",
+    "NGAYSINH": "22/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311021243",
+    "HOTEN": "Nguyễn Thị Thiên Kim",
+    "NGAYSINH": "11/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311017380",
+    "HOTEN": "Nguyễn Thị Thuỳ Dương",
+    "NGAYSINH": "26/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311012295",
+    "HOTEN": "Nguyễn Thị Thuỳ Dương",
+    "NGAYSINH": "05/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311009975",
+    "HOTEN": "Nguyễn Thị Thùy Dương",
+    "NGAYSINH": "20/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311001654",
+    "HOTEN": "Nguyễn Thị Thùy Dương",
+    "NGAYSINH": "20/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011623",
+    "HOTEN": "Nguyễn Thị Thuỳ Như",
+    "NGAYSINH": "05/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "087311006121",
+    "HOTEN": "Nguyễn Thị Tố Xinh",
+    "NGAYSINH": "26/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311020910",
+    "HOTEN": "Nguyễn Thị Trúc Phương",
+    "NGAYSINH": "02/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311013466",
+    "HOTEN": "Nguyễn Thị Trúc Phương",
+    "NGAYSINH": "05/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311009289",
+    "HOTEN": "Nguyễn Thị Trúc Xinh",
+    "NGAYSINH": "16/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311001514",
+    "HOTEN": "Nguyễn Thị Tường Vy",
+    "NGAYSINH": "20/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004471",
+    "HOTEN": "Nguyễn Thị Tuyết Nhi",
+    "NGAYSINH": "18/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311010092",
+    "HOTEN": "Nguyễn Thị Yến Nhi",
+    "NGAYSINH": "11/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311008496",
+    "HOTEN": "Nguyễn Thị Yến Nhi",
+    "NGAYSINH": "07/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004933",
+    "HOTEN": "Nguyễn Thị Yến Nhung",
+    "NGAYSINH": "09/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211015822",
+    "HOTEN": "Nguyễn Trần Bảo Huy",
+    "NGAYSINH": "15/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000763",
+    "HOTEN": "Nguyễn Trần Kim Ngân",
+    "NGAYSINH": "14/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021700",
+    "HOTEN": "Nguyễn Trần Mạnh Khang",
+    "NGAYSINH": "14/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007160",
+    "HOTEN": "Nguyễn Trần Phương Vy",
+    "NGAYSINH": "24/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211018040",
+    "HOTEN": "Nguyễn Trí Hào",
+    "NGAYSINH": "30/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000957",
+    "HOTEN": "Nguyễn Trọng Tín",
+    "NGAYSINH": "12/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211003227",
+    "HOTEN": "Nguyễn Trung Triết",
+    "NGAYSINH": "23/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001955",
+    "HOTEN": "Nguyễn Trương Anh Khoa",
+    "NGAYSINH": "19/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211008323",
+    "HOTEN": "Nguyễn Trường Giang",
+    "NGAYSINH": "15/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211009439",
+    "HOTEN": "Nguyễn Văn Bằng",
+    "NGAYSINH": "23/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211019158",
+    "HOTEN": "Nguyễn Văn Định",
+    "NGAYSINH": "27/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021871",
+    "HOTEN": "Nguyễn Văn Thái",
+    "NGAYSINH": "19/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001735",
+    "HOTEN": "Nguyễn Văn Thông",
+    "NGAYSINH": "03/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211004012",
+    "HOTEN": "Nguyễn Văn Việt Hóa",
+    "NGAYSINH": "29/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211006466",
+    "HOTEN": "Nguyễn Võ Trung Nguyên",
+    "NGAYSINH": "27/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211018807",
+    "HOTEN": "Nguyễn Vương Hưng",
+    "NGAYSINH": "08/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311006237",
+    "HOTEN": "Phạm Bảo Giang",
+    "NGAYSINH": "04/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004107",
+    "HOTEN": "Phạm Bảo Trâm",
+    "NGAYSINH": "16/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211013527",
+    "HOTEN": "Phạm Bình Minh",
+    "NGAYSINH": "19/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 32,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001991",
+    "HOTEN": "Phạm Chí Đức",
+    "NGAYSINH": "13/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211020429",
+    "HOTEN": "Phạm Đăng Khôi",
+    "NGAYSINH": "17/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089210010411",
+    "HOTEN": "Phạm Hữu Lộc",
+    "NGAYSINH": "18/06/2010",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311020047",
+    "HOTEN": "Phạm Lê Phương Linh",
+    "NGAYSINH": "27/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211017893",
+    "HOTEN": "Phạm Minh Thành",
+    "NGAYSINH": "18/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311015725",
+    "HOTEN": "Phạm Ngọc Kỳ Anh",
+    "NGAYSINH": "01/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211013501",
+    "HOTEN": "Phạm Tấn Đạt",
+    "NGAYSINH": "15/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211006228",
+    "HOTEN": "Phạm Thanh Danh",
+    "NGAYSINH": "02/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311014607",
+    "HOTEN": "Phạm Thị Diễm My",
+    "NGAYSINH": "04/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311005005",
+    "HOTEN": "Phạm Thị Thùy Trang",
+    "NGAYSINH": "10/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311013422",
+    "HOTEN": "Phạm Thị Tuyết Mai",
+    "NGAYSINH": "01/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000767",
+    "HOTEN": "Phạm Trung Hiếu",
+    "NGAYSINH": "04/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000769",
+    "HOTEN": "Phạm Trung Nghĩa",
+    "NGAYSINH": "04/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089210018714",
+    "HOTEN": "Phạm Văn Tuấn",
+    "NGAYSINH": "01/01/2010",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001833",
+    "HOTEN": "Phạm Văn Tuấn Dương",
+    "NGAYSINH": "08/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000885",
+    "HOTEN": "Phạm Văn Tỷ",
+    "NGAYSINH": "19/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211011894",
+    "HOTEN": "Phan Hoàn Phát",
+    "NGAYSINH": "09/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000894",
+    "HOTEN": "Phan Nhật Huy",
+    "NGAYSINH": "30/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016494",
+    "HOTEN": "Phan Thị Bảo Tiên",
+    "NGAYSINH": "18/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311020908",
+    "HOTEN": "Phan Thị Cẩm Nhung",
+    "NGAYSINH": "24/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011295",
+    "HOTEN": "Phan Thị Huỳnh Như",
+    "NGAYSINH": "17/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311003552",
+    "HOTEN": "Phan Thị Kim Duyên",
+    "NGAYSINH": "02/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311010503",
+    "HOTEN": "Phan Thị Ngọc Diệp",
+    "NGAYSINH": "24/07/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004027",
+    "HOTEN": "Phan Thị Ngọc Trúc",
+    "NGAYSINH": "25/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311005148",
+    "HOTEN": "Phan Thuỵ Kiều Linh",
+    "NGAYSINH": "02/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211004683",
+    "HOTEN": "Phan Trung Kiên",
+    "NGAYSINH": "17/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311020752",
+    "HOTEN": "Phan Tường Vy",
+    "NGAYSINH": "07/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211016445",
+    "HOTEN": "Phan Văn Ngoan",
+    "NGAYSINH": "12/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089210008761",
+    "HOTEN": "Phan Văn Trung Hậu",
+    "NGAYSINH": "13/09/2010",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211013477",
+    "HOTEN": "Quách Văn Khang",
+    "NGAYSINH": "17/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211016465",
+    "HOTEN": "Thái Huy Tài",
+    "NGAYSINH": "28/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311010964",
+    "HOTEN": "Thiều Thị Ngọc Yến",
+    "NGAYSINH": "29/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007545",
+    "HOTEN": "Thiều Thị Thanh Trúc",
+    "NGAYSINH": "28/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211014919",
+    "HOTEN": "Tô Thành Quy",
+    "NGAYSINH": "06/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014952",
+    "HOTEN": "Tống Hải Đăng",
+    "NGAYSINH": "06/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000803",
+    "HOTEN": "Tống Thị Mỹ Hạnh",
+    "NGAYSINH": "08/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014764",
+    "HOTEN": "Trần Bảo Khang",
+    "NGAYSINH": "08/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211013084",
+    "HOTEN": "Trần Bảo Trọng",
+    "NGAYSINH": "05/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211011180",
+    "HOTEN": "Trần Chí Khang",
+    "NGAYSINH": "30/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211009979",
+    "HOTEN": "Trần Chí Phát",
+    "NGAYSINH": "02/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211022836",
+    "HOTEN": "Trần Đặng Đăng Khôi",
+    "NGAYSINH": "21/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211018942",
+    "HOTEN": "Trần Đăng Khôi",
+    "NGAYSINH": "15/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311013953",
+    "HOTEN": "Trần Đặng Tường Vy",
+    "NGAYSINH": "22/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311015466",
+    "HOTEN": "Trần Diệu Huyền",
+    "NGAYSINH": "22/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211018460",
+    "HOTEN": "Trần Duy Tường",
+    "NGAYSINH": "03/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021519",
+    "HOTEN": "Trần Gia Băng",
+    "NGAYSINH": "22/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311012622",
+    "HOTEN": "Trần Hồ Thị Trúc Thư",
+    "NGAYSINH": "08/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211017704",
+    "HOTEN": "Trần Hoàng Khang",
+    "NGAYSINH": "21/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211003959",
+    "HOTEN": "Trần Hoàng Minh",
+    "NGAYSINH": "27/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311008148",
+    "HOTEN": "Trần Hoàng Ngọc",
+    "NGAYSINH": "10/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211005328",
+    "HOTEN": "Trần Hoàng Phúc",
+    "NGAYSINH": "11/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211007237",
+    "HOTEN": "Trần Hữu Trọng",
+    "NGAYSINH": "10/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211011237",
+    "HOTEN": "Trần Khánh Duy",
+    "NGAYSINH": "13/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211007206",
+    "HOTEN": "Trần Khánh Phương",
+    "NGAYSINH": "05/04/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311010996",
+    "HOTEN": "Trần Kim Khánh",
+    "NGAYSINH": "27/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311003446",
+    "HOTEN": "Trần Lê Ngọc Hải Yến",
+    "NGAYSINH": "19/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211007788",
+    "HOTEN": "Trần Minh Sang",
+    "NGAYSINH": "06/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000028",
+    "HOTEN": "Trần Ngọc Châu Sa",
+    "NGAYSINH": "01/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 32,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311012366",
+    "HOTEN": "Trần Ngọc Nhã Ý",
+    "NGAYSINH": "09/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211011011",
+    "HOTEN": "Trần Nguyễn Chí Hào",
+    "NGAYSINH": "05/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004988",
+    "HOTEN": "Trần Nguyễn Tường Vy",
+    "NGAYSINH": "17/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004846",
+    "HOTEN": "Trần Nguyễn Tuyết Nhi",
+    "NGAYSINH": "30/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311002744",
+    "HOTEN": "Trần Nguyễn Vân Lam",
+    "NGAYSINH": "27/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311021351",
+    "HOTEN": "Trần Nguyễn Xuân Mai",
+    "NGAYSINH": "06/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311015298",
+    "HOTEN": "Trần Nhã Uyên",
+    "NGAYSINH": "14/06/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211020559",
+    "HOTEN": "Trần Nhật Tường",
+    "NGAYSINH": "04/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001048",
+    "HOTEN": "Trần Nhựt Tân",
+    "NGAYSINH": "13/01/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211013090",
+    "HOTEN": "Trần Phúc Lê",
+    "NGAYSINH": "10/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Phú Lộc",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211005032",
+    "HOTEN": "Trần Phước Lộc",
+    "NGAYSINH": "11/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000900",
+    "HOTEN": "Trần Quách Khánh",
+    "NGAYSINH": "23/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "064211007089",
+    "HOTEN": "Trần Quốc Huy",
+    "NGAYSINH": "16/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089208000181",
+    "HOTEN": "Trần Sơn Nghĩa",
+    "NGAYSINH": "13/10/2008",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211014007",
+    "HOTEN": "Trần Thanh Tính",
+    "NGAYSINH": "04/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000838",
+    "HOTEN": "Trần Thảo Vy",
+    "NGAYSINH": "03/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000874",
+    "HOTEN": "Trần Thị Gấm",
+    "NGAYSINH": "29/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311014952",
+    "HOTEN": "Trần Thị Huỳnh Anh",
+    "NGAYSINH": "20/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311012250",
+    "HOTEN": "Trần Thị Huỳnh Thương",
+    "NGAYSINH": "10/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311021375",
+    "HOTEN": "Trần Thị Kim Xoàn",
+    "NGAYSINH": "12/02/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311011271",
+    "HOTEN": "Trần Thị Lan Anh",
+    "NGAYSINH": "18/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311019540",
+    "HOTEN": "Trần Thị Ngọc Thùy",
+    "NGAYSINH": "28/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311007336",
+    "HOTEN": "Trần Thị Phương Nga",
+    "NGAYSINH": "16/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311011800",
+    "HOTEN": "Trần Thị Phương Trinh",
+    "NGAYSINH": "16/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311013156",
+    "HOTEN": "Trần Thị Thanh Xuân",
+    "NGAYSINH": "24/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311010861",
+    "HOTEN": "Trần Thị Thúy Quỳnh",
+    "NGAYSINH": "19/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311012360",
+    "HOTEN": "Trần Thị Tố Tố",
+    "NGAYSINH": "10/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311022276",
+    "HOTEN": "Trần Thị Trâm Anh",
+    "NGAYSINH": "20/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311019150",
+    "HOTEN": "Trần Thị Tuyết Nhi",
+    "NGAYSINH": "27/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089310011788",
+    "HOTEN": "Trần Thị Yến",
+    "NGAYSINH": "13/09/2010",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021976",
+    "HOTEN": "Trần Thiện Bảo",
+    "NGAYSINH": "28/02/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021825",
+    "HOTEN": "Trần Trí Nguyễn",
+    "NGAYSINH": "17/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211000884",
+    "HOTEN": "Trần Văn Có",
+    "NGAYSINH": "23/08/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211017460",
+    "HOTEN": "Trần Văn Thịnh",
+    "NGAYSINH": "01/12/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211013221",
+    "HOTEN": "Trần Văn Thịnh",
+    "NGAYSINH": "09/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "087210000065",
+    "HOTEN": "Trần Vũ Thanh",
+    "NGAYSINH": "02/10/2010",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000898",
+    "HOTEN": "Trần Y Bình",
+    "NGAYSINH": "21/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021776",
+    "HOTEN": "Trịnh Minh Khôi",
+    "NGAYSINH": "19/09/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311015437",
+    "HOTEN": "Trịnh Thảo Quyên",
+    "NGAYSINH": "16/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211008610",
+    "HOTEN": "Trương Bảo Ngoan",
+    "NGAYSINH": "15/07/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211005326",
+    "HOTEN": "Trương Long Hồ",
+    "NGAYSINH": "10/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211007772",
+    "HOTEN": "Trương Nguyễn Thái Thuận",
+    "NGAYSINH": "13/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311015608",
+    "HOTEN": "Trương Phạm Phương Thuỳ",
+    "NGAYSINH": "20/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211021263",
+    "HOTEN": "Trương Tấn Phát",
+    "NGAYSINH": "12/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Long Thạnh",
+    "DIEMXETTUYEN": 30,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311020352",
+    "HOTEN": "Trương Thị Ái Khanh",
+    "NGAYSINH": "12/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 33,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311011624",
+    "HOTEN": "Trương Thị Nhã Khanh",
+    "NGAYSINH": "07/11/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 38,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000730",
+    "HOTEN": "Trương Thị Tú Linh",
+    "NGAYSINH": "06/05/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211022457",
+    "HOTEN": "Trương Trần Hữu Trí",
+    "NGAYSINH": "22/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 39,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001359",
+    "HOTEN": "Trương Văn Bảng",
+    "NGAYSINH": "14/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 34,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089211013772",
+    "HOTEN": "Võ Bằng Kiện",
+    "NGAYSINH": "01/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 32,
+    "KETQUA": "Không trúng tuyển"
+  },
+  {
+    "CCCD": "089311008596",
+    "HOTEN": "Võ Bảo Châu",
+    "NGAYSINH": "21/12/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "093211000248",
+    "HOTEN": "Võ Hoàng Huy",
+    "NGAYSINH": "18/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211009359",
+    "HOTEN": "Võ Minh Hạo",
+    "NGAYSINH": "23/03/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Phú Lộc",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211017930",
+    "HOTEN": "Võ Minh Tài",
+    "NGAYSINH": "10/05/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân Thạnh",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211002719",
+    "HOTEN": "Võ Nguyễn Duy Khanh",
+    "NGAYSINH": "13/11/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211001552",
+    "HOTEN": "Võ Nguyễn Quốc Đại",
+    "NGAYSINH": "22/10/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "087211015733",
+    "HOTEN": "Võ Quốc Huy",
+    "NGAYSINH": "09/06/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311020846",
+    "HOTEN": "Võ Thị Hà My",
+    "NGAYSINH": "30/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311020498",
+    "HOTEN": "Võ Thị Hồng Trúc",
+    "NGAYSINH": "23/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000758",
+    "HOTEN": "Võ Thị Huỳnh Như",
+    "NGAYSINH": "13/09/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311018027",
+    "HOTEN": "Võ Thị Kiều Tiên",
+    "NGAYSINH": "13/03/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Vĩnh Hòa",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311010493",
+    "HOTEN": "Võ Thị Kim Huỳnh",
+    "NGAYSINH": "02/10/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311004774",
+    "HOTEN": "Võ Thị Thắm",
+    "NGAYSINH": "12/01/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 37,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311016677",
+    "HOTEN": "Võ Thị Tường Lam",
+    "NGAYSINH": "14/08/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 36,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311000840",
+    "HOTEN": "Võ Thị Tường Vy",
+    "NGAYSINH": "17/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089311008415",
+    "HOTEN": "Võ Thị Tuyền Giang",
+    "NGAYSINH": "22/04/2011",
+    "GIOITINH": "Nữ",
+    "TRUONGTHCS": "Trường THCS Long An",
+    "DIEMXETTUYEN": 40,
+    "KETQUA": "Trúng tuyển"
+  },
+  {
+    "CCCD": "089211015998",
+    "HOTEN": "Vũ Chấn Phong",
+    "NGAYSINH": "19/01/2011",
+    "GIOITINH": "Nam",
+    "TRUONGTHCS": "Trường THCS Tân An",
+    "DIEMXETTUYEN": 35,
+    "KETQUA": "Trúng tuyển"
+  }
+]
