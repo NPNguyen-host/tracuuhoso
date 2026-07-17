@@ -40,11 +40,9 @@ body{
 
 }
 
-.logo{
-    width: min(40vw, 260px);
-    height: auto;
-    display: block;
-    margin: 0 auto 15px;
+.logo{ 
+    width:350px;
+    margin-bottom:15px;
 }
 
 .school-name{
